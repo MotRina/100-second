@@ -24,3 +24,6 @@
 背景の画像データは（https://www.idownloadblog.com/2015/05/10/8-bit-video-game-wallpaper-iphone-ipad/）から引用しました。
 モンスター・雲・弾丸・飛行機は、イラスト画像素材が無料ダウンロードできる（https://ja.pngtree.com/）からダウンロードしています。
 
+# デモ
+
+https://user-images.githubusercontent.com/127751292/225601000-781db6ec-bfcb-49af-a3ff-d0f680a4529b.mov
