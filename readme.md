@@ -1,9 +1,9 @@
 # エイリアンの100秒逃走
-空から降ってくる飛行機(人間側)からの攻撃に、エイリアンが100秒間逃げ切るゲームを、<br>
+空から降ってくる飛行機(人間側)からの攻撃に、エイリアンが100秒間逃げ切るゲーム。<br>
 2Dゲームフレームワーク[GameCanvas-Unity](https://sfc-sdp.github.io/GameCanvas-Unity/)を用いて作成しました。
 <p>
 <img width="201" alt="スタート画面" src="https://user-images.githubusercontent.com/127751292/225598927-1906c86d-b9e8-409b-8c41-4d49c343621b.png">　
-  <img width="200" alt="スクリーンショット 2023-03-16 20 35 52" src="https://user-images.githubusercontent.com/127751292/225605120-7f970109-da33-40e2-a5bc-08e86b595a1d.png">
+  <img width="200" alt="プレイ画面" src="https://user-images.githubusercontent.com/127751292/225605120-7f970109-da33-40e2-a5bc-08e86b595a1d.png">
 </p>
 
 ###### ・　想定している端末の機種名 : iPhone11 , 縦横の解像度 : 1792×828
